@@ -23,5 +23,4 @@ It allows users to add, view, search, and delete contacts, and saves the data to
 - The contacts are saved in `contacts.csv` in the same folder as the script.
 - Ensure you have permission to read/write files in the folder.
 
-Ahmed Deedat Ryan
-(using my dada account)
+
